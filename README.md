@@ -21,5 +21,5 @@ Me apasiona automatizar análisis complejos, diseñar arquitecturas hardware/sof
 *  **[Consolidación MATLAB Onramp](ENLACE_A_TU_REPO_REPASO):** Procesamiento, indexación lógica y visualización estructurada de datos.
 
 ---
- **Conecta conmigo:** *  [Mi Perfil de LinkedIn](ENLACE_A_TU_LINKEDIN) https://www.linkedin.com/in/luc%C3%ADa-s%C3%A1nchez-m%C3%A1rquez-998503419/
+ **Conecta conmigo:** *  [ https://www.linkedin.com/in/luc%C3%ADa-s%C3%A1nchez-m%C3%A1rquez-998503419/](ENLACE_A_TU_LINKEDIN)
 * ✉️ [luciasanchezmarquez31@gmail.com](mailto:luciasanchezmarquez31@gmail.com)
